@@ -1,5 +1,4 @@
 # honeypot_py
-# SSH Honeypot
 
 ## Giới thiệu
 
